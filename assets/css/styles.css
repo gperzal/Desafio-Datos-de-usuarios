@@ -1,0 +1,68 @@
+body {
+    
+    background: url(../img/bg.jpg) no-repeat center center fixed;
+
+}
+
+ 
+.card {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    background: transparent;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    width: 50rem;
+}
+
+.user_photo {
+    margin: 20px 0;
+    position: relative;
+}
+
+.user_photo img {
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #b89696;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+    padding: 20px;
+}
+
+.values_list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    border-top: 1px solid #ccc;
+    
+}
+
+
+
+.values_list li {
+    transition: transform 0.2s ease; /* Agrega una transición suave */
+    cursor: pointer; /* Cambia el cursor para indicar que es interactivo */
+    padding: 5px 0;
+}
+
+.values_list li:hover {
+    transform: scale(1.1); /* Aumenta el tamaño al hacer hover */
+    color: rgb(18, 207, 18);
+}
+
+
+h1, h5{
+    font-family: Perpetua, Baskerville, serif;
+    font-weight: 800;
+}
