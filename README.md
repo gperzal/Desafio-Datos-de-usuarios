@@ -39,11 +39,11 @@ Puedes ver una versión en vivo de la aplicación en [GitHub Pages](https://gper
 
 Aquí algunas capturas de pantalla de la aplicación:
 
-![Post API](https://github.com/gperzal/Desafio-Datos-de-usuarios/blob/master/assets/img/ss.png "Cargar Post de API")
+![Post API](https://github.com/gperzal/Desafio-Datos-de-usuarios/blob/main/assets/img/ss.png "Cargar Post de API")
 
 ## Explicacion del Codigo
 
-![Código](https://github.com/gperzal/Desafio-Datos-de-usuarios/blob/master/assets/img/code.png "Comentarios")
+![Código](https://github.com/gperzal/Desafio-Datos-de-usuarios/blob/main/assets/img/code.png "Comentarios")
 
 ## Contacto
 
